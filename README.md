@@ -1,0 +1,9 @@
+BIDS_40um/sourcedata/ contains the original left and right hippocampal block nifti images (ftp://bigbrain.loris.ca/BigBrainRelease.2015/2D_Final_Sections/Coronal/Png/Full_Resolution/), which is publically available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (https://bigbrain.loris.ca/main.php?test_name=license). BIDS_downsampled/sourcedata contains 80um resampled blocks, on which manual labelling of hippocampal and surrounding structures was performed (BIDS_downsampled/manual_masks/).
+
+Laplacian solutions were obtained over the domain of hippocampal grey matter according to our previous publication (https://www.ncbi.nlm.nih.gov/pubmed/29175494), code available at https://github.com/jordandekraker/HippUnfolding (BIDS_downsampled/HippUnfold). These solutions were obtained in the downsampled image space due to memory limits, and were then upsampled via the upsample.m script, which populated the corresponding directories in BIDS_40um.
+
+In parallel, an equivolume laminar solution was also obtained over the domain of hippocampal grey matter using code available at https://github.com/nighres/nighres. The exact code used to obtain these solutions can be found in BIDSscripts/nighres.
+
+All analyses performed in the current publication can be replicated using the scripts found in BIDSscripts. Many of these scripts depend on the outputs from other scripts. For example, allfeatures.m collects, preprocesses, and plots the 5 morphological features computed in MorphologyFeatures.m as well as the 10 laminar features computed in LaminarFeatures.m. For ease of use, .mat files are provided alongside each script containing all variables needed to run downstream analyses.
+
+BIDSscripts/figures contains visualizations of all analyses, as well as supplementary analyses and some which were not included with our publication because no conclusive assertions could be made form them.
