@@ -1,7 +1,0 @@
-{
-    "title": "Hippocampal morphology and cytoarchitecture in the 3D BigBrain",
-    "description": "This project's preprint can be found here: https://www.biorxiv.org/content/10.1101/599571v1. The goal of this project is to characterize the complex mesoscale folding of the hippocampus as well as histological features which define the hippocmapal subfields using the open source dataset 3D BigBrain.",
-    "authors": "Jordan DeKraker, Jonathan C. Lau, Ali Khan, Kayla Ferko, Stefan Köhler, University of Western Ontario",
-    "licenses": "CC-By Attribution 4.0 International",
-    "contact": "jordandekraker@gmail.com"
-}
