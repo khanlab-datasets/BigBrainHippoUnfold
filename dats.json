@@ -22,6 +22,9 @@
         {
           "name": "Khan Computational Imaging Lab"
         },
+	{
+	  "name": "Köhler Memory Lab"
+	},
         { 
           "name": "Robarts Research Institute"
         },
@@ -76,6 +79,9 @@
         {
           "name": "Khan Computational Imaging Lab"
         },
+	{
+	  "name": "Köhler Memory Lab"
+	},
         { 
           "name": "Brain and Mind Institute"
         },
@@ -92,7 +98,7 @@
       "affiliations":
       [
         {
-          "name": "Khan Computational Imaging Lab"
+          "name": "Köhler Memory Lab"
         },
         { 
           "name": "Brain and Mind Institute"
