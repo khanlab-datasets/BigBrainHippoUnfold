@@ -1,1 +1,1 @@
-.git/annex/objects/fv/fG/MD5E-s747--3f7ee7073c7fe04fbb6effe15ed7f903.txt/MD5E-s747--3f7ee7073c7fe04fbb6effe15ed7f903.txt
+/annex/objects/MD5E-s747--3f7ee7073c7fe04fbb6effe15ed7f903.txt
