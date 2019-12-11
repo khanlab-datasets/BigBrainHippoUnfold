@@ -1,6 +1,6 @@
 {
   "title": "Hippocampal morphology and cytoarchitecture in the 3D BigBrain",
-  "description": "This project's preprint can be found here: https://www.biorxiv.org/content/10.1101/599571v1. The goal of this project is to characterize the complex mesoscale folding of the hippocampus as well as histological features which define the hippocmapal subfields using the open source dataset 3D BigBrain.",
+  "description": "This project's preprint can be found here: https://www.biorxiv.org/content/10.1101/599571v1. The goal of this project is to characterize the complex mesoscale folding of the hippocampus as well as histological features which define the hippocampal subfields using the open source dataset 3D BigBrain.",
   "dates": [
     {
       "@type": "Date",
@@ -121,10 +121,43 @@
   ],
   "version": "1.0.0",
   "privacy": "Open Access",
+  "distributions": [
+	        {
+			"formats": [
+				"nifti",
+				".stl"
+            		],
+			"size" : "14",
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://github.com/khanlab-datasets/BigBrainHippoUnfold"
+			}
+		}
+	],
   "licenses": [
     {
       "@type": "License",
       "name": "CC-By Attribution 4.0 International"
     }
-  ]
+  ],
+"extraProperties": [
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "134"
+				}
+			]
+		}
+	]
 }
