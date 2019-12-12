@@ -116,6 +116,23 @@
       }
     }
   ],
+"keywords": [
+		{
+			"value" : "hippocampus"
+		},
+		{
+			"value" : "3D BigBrain"
+		},
+		{
+			"value" : "mesoscale folding"
+		},
+		{
+			"value" : "human brain"
+		},
+		{
+			"value" : "cytoarchitecture"
+		}
+  ],
   "version": "1.0.0",
   "privacy": "Open Access",
   "distributions": [
@@ -153,6 +170,14 @@
 			"values": [
 				{
 					"value": "134"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.jpg"
 				}
 			]
 		}
