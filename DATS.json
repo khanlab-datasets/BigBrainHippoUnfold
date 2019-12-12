@@ -15,7 +15,6 @@
     {
       "fullName": "Jordan DeKraker",
       "firstName": "Jordan",
-      "middleName": "",
       "lastName": "DeKraker",
       "affiliations": 
       [
@@ -36,7 +35,7 @@
     {
       "fullName": "Jonathan C. Lau",
       "firstName": "Jonathan",
-      "middleName": "C.",
+      "middleInitial": "C.",
       "lastName": "Lau",
       "affiliations":
       [
@@ -54,7 +53,7 @@
     {
       "fullName": "Ali R. Khan",
       "firstName": "Ali",
-      "middleName": "R.",
+      "middleInitial": "R.",
       "lastName": "Khan",
       "affiliations":
       [
@@ -72,7 +71,6 @@
     {
       "fullName": "Kayla Ferko",
       "firstName": "Kayla",
-      "middleName": "",
       "lastName": "Ferko",
       "affiliations":
       [
@@ -93,7 +91,6 @@
     {
       "fullName": "Stefan Köhler",
       "firstName": "Stefan",
-      "middleName": "",
       "lastName": "Köhler",
       "affiliations":
       [
@@ -127,7 +124,7 @@
 				"nifti",
 				".stl"
             		],
-			"size" : "14",
+			"size" : 14,
 		        "unit" : {
             			"value": "GB"
 		        },
