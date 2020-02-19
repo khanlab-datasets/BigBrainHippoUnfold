@@ -146,7 +146,8 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "https://github.com/khanlab-datasets/BigBrainHippoUnfold"
+				"landingPage": "https://github.com/khanlab-datasets/BigBrainHippoUnfold",
+				"annotation": "public"
 			}
 		}
 	],
