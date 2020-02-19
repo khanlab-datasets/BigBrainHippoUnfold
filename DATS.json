@@ -147,7 +147,11 @@
 		        },
 			"access": {
 				"landingPage": "https://github.com/khanlab-datasets/BigBrainHippoUnfold",
-				"annotation": "public"
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
 			}
 		}
 	],
