@@ -138,8 +138,8 @@
   "distributions": [
 	        {
 			"formats": [
-				"nifti",
-				".stl"
+				"NIfTI",
+				".STL"
             		],
 			"size" : 14,
 		        "unit" : {
