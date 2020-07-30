@@ -16,7 +16,7 @@
       "fullName": "Jordan DeKraker",
       "firstName": "Jordan",
       "lastName": "DeKraker",
-      "affiliations": 
+      "affiliations":
       [
         {
           "name": "Khan Computational Imaging Lab"
@@ -24,10 +24,10 @@
 	{
 	  "name": "Köhler Memory Lab"
 	},
-        { 
+        {
           "name": "Robarts Research Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -42,10 +42,10 @@
         {
           "name": "Khan Computational Imaging Lab"
         },
-        { 
+        {
           "name": "Robarts Research Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -65,10 +65,10 @@
         {
           "name": "Khan Computational Imaging Lab"
         },
-        { 
+        {
           "name": "Robarts Research Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -85,10 +85,10 @@
 	{
 	  "name": "Köhler Memory Lab"
 	},
-        { 
+        {
           "name": "Brain and Mind Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -102,10 +102,10 @@
         {
           "name": "Köhler Memory Lab"
         },
-        { 
+        {
           "name": "Brain and Mind Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -162,7 +162,6 @@
 	],
   "licenses": [
     {
-      "@type": "License",
       "name": "CC-By Attribution 4.0 International"
     }
   ],
@@ -180,6 +179,17 @@
 			"values": [
 				{
 					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"consortium": "University of Western Ontario",
+					"city": "London",
+					"province": "Ontario",
+					"country": "Canada"
 				}
 			]
 		},
