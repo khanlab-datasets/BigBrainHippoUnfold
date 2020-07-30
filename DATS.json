@@ -3,10 +3,8 @@
   "description": "This project's preprint can be found here: https://www.biorxiv.org/content/10.1101/599571v1. The goal of this project is to characterize the complex mesoscale folding of the hippocampus as well as histological features which define the hippocampal subfields using the open source dataset 3D BigBrain.",
   "dates": [
     {
-      "@type": "Date",
       "date": "2019-04-01 00:00:00",
       "type": {
-        "@type": "Annotation",
         "value": "Start Date"
       }
     }
