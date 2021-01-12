@@ -3,11 +3,9 @@
   "description": "This project's preprint can be found here: https://www.biorxiv.org/content/10.1101/599571v1. The goal of this project is to characterize the complex mesoscale folding of the hippocampus as well as histological features which define the hippocampal subfields using the open source dataset 3D BigBrain.",
   "dates": [
     {
-      "@type": "Date",
       "date": "2019-04-01 00:00:00",
       "type": {
-        "@type": "Annotation",
-        "value": "Start Date"
+        "value": "start date"
       }
     }
   ],
@@ -16,7 +14,7 @@
       "fullName": "Jordan DeKraker",
       "firstName": "Jordan",
       "lastName": "DeKraker",
-      "affiliations": 
+      "affiliations":
       [
         {
           "name": "Khan Computational Imaging Lab"
@@ -24,10 +22,10 @@
 	{
 	  "name": "Köhler Memory Lab"
 	},
-        { 
+        {
           "name": "Robarts Research Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -42,10 +40,10 @@
         {
           "name": "Khan Computational Imaging Lab"
         },
-        { 
+        {
           "name": "Robarts Research Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -65,10 +63,10 @@
         {
           "name": "Khan Computational Imaging Lab"
         },
-        { 
+        {
           "name": "Robarts Research Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -85,10 +83,10 @@
 	{
 	  "name": "Köhler Memory Lab"
 	},
-        { 
+        {
           "name": "Brain and Mind Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -102,10 +100,10 @@
         {
           "name": "Köhler Memory Lab"
         },
-        { 
+        {
           "name": "Brain and Mind Institute"
         },
-        { 
+        {
           "name": "University of Western Ontario"
         }
       ]
@@ -144,7 +142,7 @@
 	        {
 			"formats": [
 				"NIfTI",
-				".STL"
+				"STL"
             		],
 			"size" : 14,
 		        "unit" : {
@@ -162,7 +160,6 @@
 	],
   "licenses": [
     {
-      "@type": "License",
       "name": "CC-By Attribution 4.0 International"
     }
   ],
@@ -180,6 +177,38 @@
 			"values": [
 				{
 					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "origin_institution",
+			"values": [
+				{
+					"value": "University of Western Ontario"
+				}
+			]
+		},
+		{
+			"category": "origin_city",
+			"values": [
+				{
+					"value": "London"
+				}
+			]
+		},
+		{
+			"category": "origin_province",
+			"values": [
+				{
+					"value": "Ontario"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"value": "Canada"
 				}
 			]
 		},
